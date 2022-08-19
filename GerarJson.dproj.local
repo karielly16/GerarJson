@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/20 14:12:22.000.998,=C:\Users\karie\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2022/07/20 14:12:54.000.613,C:\Users\karie\OneDrive\Área de Trabalho\ArquiJSON\arquivoJson.dfm=C:\Users\karie\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2022/07/20 14:12:54.000.613,C:\Users\karie\OneDrive\Área de Trabalho\ArquiJSON\arquivoJson.pas=C:\Users\karie\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2022/07/20 14:13:07.000.938,C:\Users\karie\OneDrive\Área de Trabalho\ArquiJSON\GerarJson.dproj=C:\Users\karie\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
